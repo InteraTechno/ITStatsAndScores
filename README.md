@@ -3,7 +3,7 @@
 A Swift Package SDK for UIKit/SwiftUI providing presentable screens for Scores and Statistics of past, future and live matches of a variety sports.
 
 ## Version
-- 0.1.33
+- 0.1.34
 
 ## Important changes, additions and notices
 - [x] Since server is https NOW then there is NO NEED to set in your target info.plist "App Transport Security Settings" -> Allow Arbitrary Loads = YES
@@ -66,7 +66,7 @@ Currently you may only integrate ITStatsAndScores into your project manually as 
 - Click the plus button to add a dependency
 - In the "search or enter Package URL" field, enter the file PATH to the unzipped folder. (It will not work if you click "Add Local...")
 - Example file PATH: file:///Users/admin/Development/SwiftPackages/ITStatsAndScores
-- Set -> Dependency Rule: Up to Next Major Version 0.1.33 < 
+- Set -> Dependency Rule: Up to Next Major Version 0.1.34 < 
 - Click Add Package
 - Click Add Package
 - You should see in the Navigator under Package Dependencies -> ITStatsAndScores
